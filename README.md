@@ -1,4 +1,4 @@
-__Cmo jugar__
+__Cómo jugar__
 
 El objetivo del juego depende del modo de terminación elegido. Puedes ganar haciendo que una de tus fichas llegue al lado opuesto del tablero, que todas lo hagan o que logres llegar con una ficha antes de que se acabe la cantidad de movimientos.
 
